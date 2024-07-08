@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Adaptação do projeto da DIO para criar uma API de competição de crossfit chamada WorkoutAPI. Desenvolvida utilizando o framework FastAPI, esta API foi adaptada para incluir funcionalidades específicas e utiliza MySQL como banco de dados.
+Adaptação do projeto da DIO [digitalinnovationone/workout_api](https://github.com/digitalinnovationone/workout_api) para criar uma API de competição de crossfit chamada WorkoutAPI. Desenvolvida utilizando o framework FastAPI, esta API foi adaptada para incluir funcionalidades específicas e utiliza MySQL como banco de dados.
 
 ## Modelagem de Entidade e Relacionamento - MER
 
