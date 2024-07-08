@@ -50,7 +50,7 @@ uvicorn app.main:app --reload
 
 -   Atualização de dependências e configurações para suportar o método `from_orm` nos modelos Pydantic.
 
-##Estrutura das Tabelas SQL
+## Estrutura das Tabelas SQL
 
 ```bash
 -- Table structure for table `atleta`
